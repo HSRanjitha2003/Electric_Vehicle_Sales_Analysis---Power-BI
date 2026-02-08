@@ -1,5 +1,10 @@
 # Electric Vehicle Market Analysis || Excel, Power BI
 
+## 🚀 Live Dashboard  
+
+[![Power BI](https://img.shields.io/badge/PowerBI-Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMGIxNGZmYjktNGQ4ZS00NjExLWIxZWQtZDM5ZjVlNzM3NTkxIiwidCI6IjRlZjQw)
+
+
 ### 💠 Project Summary
 
 * AtliQ Motors is a prominent US-based automobile manufacturer focused on electric and hybrid vehicles.
