@@ -2,7 +2,7 @@
 
 ## 🚀 Live Dashboard  
 
-[![Power BI](https://img.shields.io/badge/PowerBI-Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMGIxNGZmYjktNGQ4ZS00NjExLWIxZWQtZDM5ZjVlNzM3NTkxIiwidCI6IjRlZjQw)
+[![Power BI](https://img.shields.io/badge/PowerBI-Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiMGIxNGZmYjktNGQ4ZS00NjExLWIxZWQtZDM5ZjVlNzM3NTkxIiwidCI6IjRlZjQwMDY5LTU5OTEtNDQ3Mi05NmI5LWRmNzIzYjEwN2VkNyJ9)
 
 
 ### 💠 Project Summary
